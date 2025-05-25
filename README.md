@@ -89,15 +89,22 @@ pip install -r requirements.txt
 
 - **XGBoost** performed best in F1-score.
 - Top contributing risk factors:
-  - Recent increases in outstanding balances
-  - Inquiry count in recent months
-  - Number of credit cards (bank vs non-bank)
+  - **Recent increases in outstanding balances**
+  - **Low credit activity** (few loans or credit cards)**
+  - **Stable or increasing debt levels over time**
+  - **Lack of financial inquiries (low engagement)**
+  - **Dependency on non-bank financial institutions**
+  - **Poor credit relationships with banks**
+  - **Inability to reduce outstanding balances**
+  - **Consistent borrowing without repayment progress**
+  - **Inquiry count in recent months**
+  - **Number of credit cards (bank vs non-bank)**
 
 ---
 
 ## 🧑‍💻 Author
 
-Project by: *[TEAM 10]*  
+Project by: *TEAM 10*  
 Course: Visual Data Analytics
 
 ---
