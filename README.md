@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 ## 📈 Key Results
 
-- **XGBoost** performed best in F1-score.
+- **XGBoost** performed best in Gini-score.
 - Top contributing risk factors:
   - **Recent increases in outstanding balances**
   - **Low credit activity** (few loans or credit cards)**
