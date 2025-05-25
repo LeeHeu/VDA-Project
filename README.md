@@ -40,11 +40,6 @@ This project aims to build a data-driven system for **credit risk analysis and p
 
 ### 4. Model Training
 - Models: `Logistic Regression`, `Random Forest`, `XGBoost`
-- Hyperparameter tuning using `RandomizedSearchCV`
-- Evaluation metrics:
-  - F1-score (weighted)
-  - ROC AUC
-  - Confusion matrix
 
 ### 5. Visualization
 - Feature importance plots
