@@ -97,8 +97,8 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 
-Project by: *[Your Name or Team Name]*  
-Course: Data Analysis / Applied Data Science
+Project by: *[TEAM 10]*  
+Course: Visual Data Analytics
 
 ---
 
