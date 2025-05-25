@@ -61,12 +61,6 @@ seaborn
 scikit-learn
 xgboost
 ```
-
-To install:
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 📂 Project Structure
